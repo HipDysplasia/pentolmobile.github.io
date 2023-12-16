@@ -1,0 +1,99 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a651b8;
+}
+
+header {
+    background-color: #753177;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.brand-container {
+    display: flex;
+    justify-content: center;
+}
+
+.brand {
+    font-size: 1.5em;
+    margin: 0 10px;
+}
+
+nav {
+    background-color: #8e3c9e;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+article {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #753177;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+table {
+    width: 10%;
+    border: solid 1px;
+    background-color: #ff7e7e;
+}
+
+table:hover {
+    width: 10%;
+    border: dashed 1px;
+    background-color: #877eff;
+}
+
+img {
+    width: 350px;
+    height: 200px;
+}
+
+#game-recommendations {
+    background-color: aquamarine;
+}
+
+#favorite-songs {
+    background-color: lightgreen;
+}
+
+#favorite-characters {
+    background-color: navajowhite;
+}
+
+#funny-square {
+    background-color: pink;
+} 
+
+#javascript-script {
+    background-color: aquamarine;
+}
+
+#BlarkSon1, #BlarkSon2, #BlarkSon3, #BlarkSon4, #BlarkSon5, #BlarkSon6, #BlarkSon7, #BlarkSon8, #BlarkSon9, #BlarkSon10 {
+    border: solid black 1px;
+    background-color: #abf2ff;
+}
+
+#BlarkSon1:hover, #BlarkSon2:hover, #BlarkSon3:hover, #BlarkSon4:hover, #BlarkSon5:hover, #BlarkSon6:hover, #BlarkSon7:hover, #BlarkSon8:hover, #BlarkSon9:hover, #BlarkSon10:hover {
+    border: solid black 1px;
+    background-color: #76d5e6;
+}
